@@ -97,8 +97,6 @@ LiquidCrystal.h (built-in)
 Setup Instructions
 Clone the repository
 
-bash
-git clone https://github.com/yourusername/smartflux-controller.git
 Open the Arduino IDE
 
 Load the sketch
